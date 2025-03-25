@@ -11,3 +11,4 @@ Welcome to my project! This repository demonstrates secure coding practices and 
 - It follows secure coding practices and uses automated security tools for monitoring.
 
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10300/badge)](https://www.bestpractices.dev/projects/10300)
