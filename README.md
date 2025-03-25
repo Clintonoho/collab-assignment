@@ -12,3 +12,4 @@ Welcome to my project! This repository demonstrates secure coding practices and 
 
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10300/badge)](https://www.bestpractices.dev/projects/10300)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{owner}/{repo}/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
